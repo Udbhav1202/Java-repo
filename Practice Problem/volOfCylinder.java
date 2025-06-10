@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class volOfCylinder {
+public class VolOfCylinder {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double rad = sc.nextDouble();

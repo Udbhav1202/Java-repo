@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class conKiloToMiles {
+public class ConKiloToMiles {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double km = sc.nextDouble();

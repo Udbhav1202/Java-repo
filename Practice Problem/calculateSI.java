@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class calculateSI {
+public class CalculateSI {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double principal = sc.nextDouble();

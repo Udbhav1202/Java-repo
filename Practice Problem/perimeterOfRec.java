@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class perimeterOfRec {
+public class PerimeterOfRec {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double len = sc.nextDouble();
